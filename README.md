@@ -1,4 +1,4 @@
-# OffGrid 📡
+# -offgrid 📡
 
 **A peer-to-peer Bluetooth mesh chat application for Windows**
 
